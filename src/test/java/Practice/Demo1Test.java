@@ -8,7 +8,7 @@ public class Demo1Test {
 	public void bikeTest() {
 		System.out.println("RE");
 		System.out.println("apache");
-	System.out.println("hero");
+	
 	}
 
 }
